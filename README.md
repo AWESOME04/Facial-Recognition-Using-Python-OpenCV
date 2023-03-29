@@ -1,4 +1,7 @@
 # Facial-Recognition-Using-Python-OpenCV
+
+![f8c70ac378](https://user-images.githubusercontent.com/102630199/228613628-f60ee6ee-c4b4-42d7-8fa6-1590e29bb502.jpg)
+
 This is a project that uses Python and OpenCV to perform facial detection and recognition. The project includes a script that captures video from a webcam, detects faces in each frame, and recognizes them if they are already known to the system.
 
 Installation
